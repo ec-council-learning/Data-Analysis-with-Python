@@ -1,0 +1,40 @@
+ques_num,tag
+Q1,age
+Q2,gender
+Q3,country of residence
+Q4,education
+Q5,current role
+Q6,coding experience
+Q7,programming languages
+Q8,programming language recommendation
+Q9,IDE
+Q10,Notebook Products
+Q11,Computing Platform
+Q12,Specialized Hardware
+Q13,TPU Usage
+Q14,Visualisation Tools
+Q15,Machine Learning Experience
+Q16,ML Framework
+Q17,ML Algorithms
+Q18,Computer Vision Methods
+Q19,NLP Methods
+Q20,Company Size
+Q21,Data Science Team Size
+Q22,ML in production
+Q23,Work Responsibilites
+Q24,Salary
+Q25,ML & Cloud Spend
+Q26,Cloud Computing Platforms
+Q27,Cloud Computing Products
+Q28,Machine Learning Products
+Q29,Big Data Products
+Q30,Big Data Products Most Often
+Q31,BI Tools
+Q32,BI Tools Most Often
+Q33,Auto ML Areas
+Q34,Auto ML Tools
+Q35,Experiments Tracking
+Q36,Analysis Sharing Platforms
+Q37,DS Course Platforms
+Q38,Data Analysis Tools
+Q39,Data Science Media Sources
